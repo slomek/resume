@@ -1,6 +1,10 @@
 # My public speaking resume
 
-# About Me
+## Contact
+
+- [Twitter](https://twitter.com/pawel_slomka)
+- [Github](https://github.com/slomek/) 
+- [LinkedIn](https://www.linkedin.com/in/pawelslomka)
 
 ## Bio
 

@@ -14,6 +14,10 @@ Whether you believe in TDD or not, you must agree that it's unwise to build prod
 
 https://speakerdeck.com/slomek/documenting-go-code-with-beautiful-tests-gophercon-uk-2018
 
+## Reviews
+
+- [notes by #dertseha](https://twitter.com/dertseha/status/1025032990823534593)
+
 ## Notes
 
 I presented an initial version of this talk during [GoWroc Meetup on July 19th 2018](https://www.meetup.com/gowroc/events/251877681/).
