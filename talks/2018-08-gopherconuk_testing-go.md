@@ -16,7 +16,7 @@ https://speakerdeck.com/slomek/documenting-go-code-with-beautiful-tests-gopherco
 
 ## Reviews
 
-- [notes by #dertseha](https://twitter.com/dertseha/status/1025032990823534593)
+- [notes by @dertseha](https://twitter.com/dertseha/status/1025032990823534593)
 
 ## Notes
 
